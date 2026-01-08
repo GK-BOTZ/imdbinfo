@@ -151,3 +151,6 @@
 - Tests & examples: add unit tests covering user-agent, error messages and ratings; add example scripts and README updates demonstrating new features.
 - Dockerfile update: set `WORKDIR`, copy source into image and install development extras.
 
+## v0.6.5
+- Fix bug in stars parsing due to imdb data structure change
+
