@@ -154,3 +154,6 @@
 ## v0.6.5
 - Fix bug in stars parsing due to imdb data structure change
 
+## v0.6.6
+- Fix bug in directors parsing due to imdb data structure change
+
